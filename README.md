@@ -2,7 +2,7 @@
 
 This project is a [Rails](http://rubyonrails.org/) application used to SOMETHING.
 
-Modificação 1
+Modificação 2
 
 ## Dependencies
 
