@@ -5,6 +5,11 @@ GIT
   specs:
     rack-timeout (0.1.0beta2)
 
+PATH
+  remote: ../jumpup
+  specs:
+    jumpup (0.0.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -102,7 +107,6 @@ GEM
       railties (>= 3.0, < 5.0)
       thor (>= 0.14, < 2.0)
     json (1.8.1)
-    jumpup (0.0.5)
     jumpup-heroku (0.0.5)
     launchy (2.4.2)
       addressable (~> 2.3)
@@ -265,7 +269,7 @@ DEPENDENCIES
   foreman (= 0.74.0)
   jbuilder (= 2.1.1)
   jquery-rails (= 3.1.1)
-  jumpup (= 0.0.5)
+  jumpup!
   jumpup-heroku (= 0.0.5)
   letter_opener (= 1.2.0)
   neat (= 1.5.1)

@@ -30,7 +30,7 @@ end
 group :development do
   gem 'spring',               '1.1.3'
   gem 'foreman',              '0.74.0'
-  gem 'jumpup',               '0.0.5'
+  gem 'jumpup',               path: '../jumpup'
   gem 'jumpup-heroku',        '0.0.5'
   gem 'better_errors',        '1.1.0'
   gem 'binding_of_caller',    '0.7.2'
